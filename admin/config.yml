@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/your-repo-name # اسم مستودع GitHub الخاص بك
+  repo: your-hafid-eng/your-repo-coffesite # اسم مستودع GitHub الخاص بك
   branch: main
 
 media_folder: "images/uploads"
