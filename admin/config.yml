@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: hafid-eng/coffesite
+  repo: "hafid-eng/coffesite"
   branch: main  
 media_folder: "images/uploads" 
 public_folder: "/images/uploads" 
