@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: hafid-eng/coffesite
-  branch: main # اسم الفرع الرئيسي
-media_folder: "images/uploads" # مسار مجلد الصور
-public_folder: "/images/uploads" # المسار العام للوصول إلى الصور
+  branch: main  
+media_folder: "images/uploads" 
+public_folder: "/images/uploads" 
 
 collections:
   - name: "posts"
